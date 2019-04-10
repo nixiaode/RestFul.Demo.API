@@ -1,0 +1,10 @@
+﻿{
+  "en-US": {
+    "Global.NoFound": "NoFound",
+    "Global.Forbidden": "Forbidden",
+    "Global.Unauthorized": "Unauthorized",
+    "Global.InternalError": "Internal Error",
+    "Global.Test": "Test test，{aaa} ----- {bbb}",
+    "Global.OperateSuccess": "OperateSuccess"
+  }
+}
