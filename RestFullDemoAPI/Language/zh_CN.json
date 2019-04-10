@@ -1,0 +1,10 @@
+﻿{
+  "zh-CN": {
+    "Global.NoFound": "没有找到数据",
+    "Global.Forbidden": "您的请求被拒绝",
+    "Global.Unauthorized": "没有权限访问",
+    "Global.InternalError": "内部错误",
+    "Global.Test": "定制内容返回测试，{aaa} ----- {bbb}",
+    "Global.OperateSuccess": "操作成功"
+  }
+}
