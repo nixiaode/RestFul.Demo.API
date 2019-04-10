@@ -1,5 +1,5 @@
 # RestFull.Demo.API
-asp.net core restfull api
+asp.net core restfull api，前后端分离，纯后端接口项目示例
 基于asp.net core 2.2，按照restfull标准实现的纯api接口项目。主要用于公司内部开发人员参考使用。
 # 项目：RestFull.Demo.Tools
 工具类项目，包含自定义异常类，自定义返回类，入参标准类实体。
